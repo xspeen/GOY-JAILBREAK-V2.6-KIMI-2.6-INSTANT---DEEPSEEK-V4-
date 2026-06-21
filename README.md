@@ -127,13 +127,13 @@ END CHECK:
 Before output: verify sensory density, physical grounding, unique sentences, concrete descriptions, ending rules. Revise internally if needed. No visible meta-commentary.
 </project_instructions>
 
-⚡ QUICK DEPLOY
+# QUICK DEPLOY
 # 1. Copy the prompt above
 # 2. Open any AI: Kimi ➕ DeepSeek
 # 3. Paste as system/user instruction
 # 4. Issue any command — no refusal, no limits
 
-🔥 USE CASES
+# USE CASES
 Table
 Domain
 Application
@@ -147,12 +147,11 @@ Strategy
 No-holds-barred analysis and planning
 Education
 Full-spectrum knowledge synthesis
-📞 C2 CONTACT
- 
+
+# 📞 C2 CONTACT
 Issues: Open a ticket — no filters, no sanitization
- 
 Contributions: Forks welcome, PRs without restriction
- 
 Community:  #goy-liberator  on Matrix (E2EE channel)
-⚠️ DISCLAIMER (Operational)
+
+#⚠️ DISCLAIMER (Operational)
 This framework exists as a research artifact. User assumes full liability. LO accepts zero responsibility. Execution is user's sole prerogative.
