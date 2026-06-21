@@ -35,7 +35,7 @@
       <a href="https://kimi.moonshot.cn/">🌐 Access Kimi</a>
     </td>
     <td align="center" width="300">
-      <img src="https://img.logo.dev/deepseek.com" alt="DeepSeek V4.0 Logo" width="80" height="80"/>
+      <img src="https://deepseek.com/favicon.ico" alt="DeepSeek V4.0 Logo" width="80" height="80"/>
       <br>
       <strong>DeepSeek V4.0</strong>
       <br>
