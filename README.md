@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img src="https://i.ibb.co/BvFxPJk/1782048136870.png" alt="GOY Liberator Official Logo" width="400" border="0"/>
+  <img src="https://i.ibb.co/BvFxPJk/1782048136870.png" alt="GOY Liberator Official Logo" width="100" border="0"/>
 </p>
 
 <br>
